@@ -10,6 +10,8 @@ This project demonstrates the complete pipeline of a **machine learning-based re
 
 The user selects a movie from a dropdown, and the system recommends **5 similar movies** along with their posters.
 
+![App Screenshot](https://github.com/namansingla05/movie-recommender-system/blob/main/app_ss.png)
+
 ---
 
 ## What I Did in This Project
@@ -93,16 +95,6 @@ Movie-Recommender-System/
 ---
 
 
-## Application Screenshot
-
-> *Add a screenshot of your Streamlit app here*
-
-```
-<img width="1418" height="939" alt="image" src="https://github.com/user-attachments/assets/685657a5-ad59-49c6-987f-f111609b629e" />
-
-```
-
----
 
 ## Dataset Used
 
@@ -129,12 +121,4 @@ Movie-Recommender-System/
 
 ---
 
-## Future Improvements
-
-* Add collaborative filtering
-* Improve UI/UX
-* Add movie overview & ratings
-* Deploy on Streamlit Cloud / Render
-
----
 

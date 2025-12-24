@@ -1,10 +1,10 @@
-# 🎬 Movie Recommender System (Content-Based)
+# Movie Recommender System (Content-Based)
 
 A **content-based movie recommendation system** built using **Python, Machine Learning, and Streamlit**. The system recommends movies similar to a selected movie based on textual features such as genres, keywords, cast, and crew, and displays movie posters using the **TMDB API**.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates the complete pipeline of a **machine learning-based recommender system**, starting from data preprocessing and feature engineering to similarity computation and deployment using **Streamlit**.
 
@@ -12,7 +12,7 @@ The user selects a movie from a dropdown, and the system recommends **5 similar 
 
 ---
 
-## 🧠 What I Did in This Project
+## What I Did in This Project
 
 ### 1. Data Collection
 
@@ -66,7 +66,7 @@ The user selects a movie from a dropdown, and the system recommends **5 similar 
 
 ---
 
-## 🖥️ Tech Stack Used
+## Tech Stack Used
 
 * **Python**
 * **Pandas & NumPy** – Data handling
@@ -77,7 +77,7 @@ The user selects a movie from a dropdown, and the system recommends **5 similar 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Movie-Recommender-System/
@@ -92,47 +92,26 @@ Movie-Recommender-System/
 
 ---
 
-## ▶️ How to Run the Project
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/movie-recommender-system.git
-cd movie-recommender-system
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 📸 Application Screenshot
+## Application Screenshot
 
 > *Add a screenshot of your Streamlit app here*
 
 ```
-📷 Screenshot Placeholder
+<img width="1418" height="939" alt="image" src="https://github.com/user-attachments/assets/685657a5-ad59-49c6-987f-f111609b629e" />
+
 ```
 
 ---
 
-## 📊 Dataset Used
+## Dataset Used
 
 **TMDB 5000 Movies Dataset**
-🔗 [https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+[https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ---
 
-## 🔑 API Used
+## API Used
 
 * **The Movie Database (TMDB) API**
   Used to fetch movie posters dynamically.
@@ -141,7 +120,7 @@ streamlit run app.py
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * Content-based recommendation
 * Fast similarity lookup using pickled matrix
@@ -150,7 +129,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add collaborative filtering
 * Improve UI/UX
@@ -159,11 +138,3 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
-
-**Naveen Singla**
-B.Tech Student | Data Analytics & Machine Learning Enthusiast
-
----
-
-⭐ If you like this project, don’t forget to give it a star!
